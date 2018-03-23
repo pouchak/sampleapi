@@ -7,4 +7,4 @@ app.get('/',(req, res)=>(
 app.post('/', (req, res)=>(console.log(req.body.message))
 )
 
-app.listen('9000', ()=> console.log('app running on port 9000'))
+app.listen('80', ()=> console.log('app running on port 9000'))
