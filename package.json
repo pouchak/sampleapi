@@ -2,7 +2,7 @@
     "name": "sampleapi",
     "description": "please hire!",
     "version": "1.0",
-    "main": "index.js",
+    "main": "server.js",
     "scripts":{
       "start":"node server.js"  
     },
